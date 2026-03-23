@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1752977242
-ModificationTime: 1774241163
+ModificationTime: 1774241415
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -8734,7 +8734,7 @@ StartChar: u10EFB
 Encoding: 69371 69371 40
 Width: 0
 GlyphClass: 1
-Flags: HWO
+Flags: HW
 HStem: -143 36<-59.7761 75.6914> 134 44<-9.99853 33.9985>
 VStem: -121 36<-82.9424 23.3921> -10 44<134.001 177.999> 110 36<-72.8544 56.4671>
 AnchorPoint: "Uml below" 12 212 mark 0
@@ -8952,6 +8952,7 @@ SplineSet
  80 -34 l 1
  141 -182 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u10ECE
@@ -10162,10 +10163,10 @@ StartChar: u10EF0
 Encoding: 69360 69360 71
 Width: 0
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: -260 49<77.7611 145.251> -66 50<78.3484 145.062>
 VStem: 15 53<-203.728 -73.767> 155 53<-203.971 -72.883>
-AnchorPoint: "Uml below" 113 0 mark 0
+AnchorPoint: "Uml below" 113 33 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10180,7 +10181,6 @@ SplineSet
  73 -66 68 -114 68 -139 c 0
  68 -164 73 -211 111 -211 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: u10EF1
@@ -10190,7 +10190,7 @@ VWidth: 0
 Flags: W
 HStem: -149 15<19 103> -50 14<19 103>
 VStem: 4 15<-134 -50> 103 14<-134 -50>
-AnchorPoint: "Uml below" 60 0 mark 0
+AnchorPoint: "Uml below" 60 20 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10214,7 +10214,7 @@ VWidth: 0
 Flags: W
 HStem: -149 113<0 113>
 VStem: 0 113<-149 -36>
-AnchorPoint: "Uml below" 58 0 mark 0
+AnchorPoint: "Uml below" 58 28 mark 0
 LayerCount: 2
 Fore
 SplineSet
