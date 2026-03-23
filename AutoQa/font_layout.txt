@@ -807,10 +807,9 @@ FFFD......: NotoSerif-Regular
 10E80..10EB1: NotoSerifYezidi-Regular
 == Arabic Extended-C
 10EC2..10EC7: ScheherazadeNew-Regular
-10EC9..10ECF: [Tofu]
+10EC9..10ECF: UFSArabicFixup
 10ED0.......: ScheherazadeNew-Regular
-10ED1..10ED8: UFSArabicFixup
-10ED9..10EF9: [Tofu]
+10ED1..10EF9: UFSArabicFixup
 10EFA..10EFF: ScheherazadeNew-Regular
 == Old Sogdian
 10F00..10F27: NotoSansOldSogdian-Regular
@@ -1664,19 +1663,13 @@ FFFD......: NotoSerif-Regular
 1D800..1DA8B: UnicodiaSutton-Regular
 1DA9B..1DAAF: [Abbreviation]
 == Miscellaneous Symbols and Arrows Extended
-1DB00..1DB1C: [Tofu]
+1DB00..1DB1C: UFSTangutFixup
 == Latin Extended-G
 1DF00..1DF1E: NotoSerif-Regular
 1DF1F..1DF24: UFSTangutFixup
-1DF25..1DF2A: UnicodiaFunky
-1DF2B..1DF3A: UFSTangutFixup
-1DF3B..1DF60: UnicodiaFunky
-1DF61..1DF65: [Tofu]
-1DF66.......: UnicodiaFunky
-1DF67..1DF6B: [Tofu]
-1DF6C, 1DF6D: UnicodiaFunky
-1DF6E..1DFCF: [Tofu]
-1DFD0..1DFFF: UnicodiaFunky
+1DF25..1DF2B: UnicodiaFunky
+1DF2C..1DF3A: UFSTangutFixup
+1DF3B..1DFFF: UnicodiaFunky
 == Glagolitic Supplement
 1E000..1E02A: Shafarik-Regular
 == Cyrillic Extended-D
@@ -21517,7 +21510,7 @@ FFFD......: NotoSerif-Regular
 2B71C..2B73F: BabelStoneHanExtra
 == CJK Unified Ideographs Extension D
 2B740..2B81D: BabelStoneHanExtra
-2B81E.......: [Tofu]
+2B81E.......: UnicodiaHan
 == CJK Unified Ideographs Extension E
 2B820..2B82F: BabelStoneHanExtra
 2B830.......: SimSun-ExtB
@@ -26990,8 +26983,8 @@ FFFD......: NotoSerif-Regular
 2F945..2F949: UnicodiaHan
 2F94A.......: BabelStoneHanBasic
 2F94B, 2F94C: UnicodiaHan
-2F94D..2F955: BabelStoneHanBasic
-2F956, 2F957: UnicodiaHan
+2F94D..2F954: BabelStoneHanBasic
+2F955..2F957: UnicodiaHan
 2F958.......: BabelStoneHanBasic
 2F959..2F95B: UnicodiaHan
 2F95C..2F960: BabelStoneHanBasic
